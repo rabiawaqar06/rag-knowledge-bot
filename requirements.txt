@@ -1,0 +1,26 @@
+# Core RAG Dependencies
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-google-genai==1.0.10
+langchain-chroma==0.1.4
+langgraph==0.2.16
+
+# Vector Database
+chromadb==0.5.5
+
+# Document Processing
+pypdf==4.2.0
+python-docx==1.1.2
+python-markdown==3.7
+
+# Frontend
+streamlit==1.38.0
+streamlit-chat==0.1.1
+
+# Utilities
+python-dotenv==1.0.1
+google-generativeai==0.7.2
+
+# Optional: For better embeddings
+sentence-transformers==3.0.1
